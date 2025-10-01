@@ -22,8 +22,7 @@ for ex in soup.find_all("Exrate"):
     })
 
 df = pd.DataFrame(rows)
-# df = df.iloc[:, 1:]
-# print(df.head())
+
 
 df.to_csv("tygia_vietcombank.csv", index=False, encoding="utf-8-sig")
 
