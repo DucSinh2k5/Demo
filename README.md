@@ -16,3 +16,5 @@ Ghi chú
 -Dữ liệu đầu vào được cung cấp sẵn hoặc có thể tải từ các nguồn công cộng.
 
 -Đây là một dự án học tập, phù hợp cho người mới bắt đầu hoặc những ai muốn ôn lại kiến thức ML cơ bản.
+
+-Datasets lấy trong folder Datasets
